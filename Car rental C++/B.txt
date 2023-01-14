@@ -1,0 +1,5 @@
+Specifications:
+
+Model BMW X4
+Max Speed= 180kmph
+Rent= 7000 rupees per/day

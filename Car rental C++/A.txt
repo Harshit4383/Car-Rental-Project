@@ -1,0 +1,5 @@
+Specifications:
+
+Model Audi A8
+Max Speed= 180kmph
+Rent= 5000 rupees per/day
